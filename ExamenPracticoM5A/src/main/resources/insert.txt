@@ -1,0 +1,4 @@
+INSERT INTO `producto`(`codigo_producto`, `cantidad`, `descripcion`, `precio`) VALUES ('','3','Aji','3.50');
+INSERT INTO `producto`(`codigo_producto`, `cantidad`, `descripcion`, `precio`) VALUES ('','8','Chocolate Nestle','12.65');
+INSERT INTO `producto`(`codigo_producto`, `cantidad`, `descripcion`, `precio`) VALUES ('','6','Arroz','48.50');
+INSERT INTO `producto`(`codigo_producto`, `cantidad`, `descripcion`, `precio`) VALUES ('','2','Jugos','2.45');
